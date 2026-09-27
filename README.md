@@ -179,7 +179,7 @@ I'm interested in opportunities where I can:
 
 &nbsp;
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/navya-verma-8b7099391?utm_source=share_via&utm_content=profile&utm_medium=member_android">
 
 <img src="https://img.shields.io/badge/LinkedIn-FF8FB1?style=for-the-badge&logo=linkedin&logoColor=white"/>
 
