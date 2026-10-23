@@ -209,6 +209,7 @@ I'm interested in opportunities where I can:
 
 <div align="center">
 
+
 ### 💗 Thanks for visiting!
 
 **Made with ♡ by Navya Verma**
