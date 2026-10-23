@@ -209,10 +209,10 @@ I'm interested in opportunities where I can:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&gradientColor=ff8fb1,9b6cff" width="100%"/>
-
 ### 💗 Thanks for visiting!
 
 **Made with ♡ by Navya Verma**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&gradientColor=ff8fb1,9b6cff" width="100%"/>
 
 </div>
